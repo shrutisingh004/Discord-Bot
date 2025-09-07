@@ -18,8 +18,3 @@ A Bot which messages everyone in a Discord Server, if the member has DM's off or
 - You can adjust or even remove the ***delay*** (**_delay_** in between the multiple DMs) according to your will in ***`config.json`***(in seconds).
 
 #### Note : The ***more is the delay***, ***the lesser is the chance of your bot getting rate limited*** **(5msgs - 5s is the rate limit for messages)**.
-
-
-### Screenshots
-
-<div align="center"><img src="assets/haha.png"></div>
