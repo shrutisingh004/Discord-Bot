@@ -1,4 +1,4 @@
-# Discord-Bot
+# discord-bot
 ### Description
 
 A Bot which messages everyone in a Discord Server, if the member has DM's off or they have blocked the bot, they cannot be messaged
